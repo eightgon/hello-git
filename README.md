@@ -8,3 +8,4 @@ sublime merge 와 gitlab을 이용하여 git을 배워볼까요??
 - SourceTree 사용법 익히기
 - Github에 계정 만들고 repo 생성하기
 - 오픈소스에 기여해보기
+ 문의는 02 로
